@@ -12,3 +12,9 @@ Git and GitHub are perfect features, I'll use it.
 
 Very interesting course about Bash Commandline,
 but too heavy informations about HTTP Protocols.
+
+## Git Collaboration
+
+<img src="./2_git_collaboration/what_is_version_control.png" alt="Screenshot#1">
+
+Just a rewiev of the Git intro at stage 0 with couple remarks.
