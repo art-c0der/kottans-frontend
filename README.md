@@ -1,4 +1,4 @@
-It is really useful material about git and GitHub.
+According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob/master/contents.md)
 
 ## My progress:
 
