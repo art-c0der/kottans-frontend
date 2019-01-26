@@ -1,8 +1,32 @@
 It is really useful material about git and GitHub.
 
+##My progress:
+###General Basics
+
+- [x] Git Basics
+- [x] Linux CLI and Networking
+- [x] VCS (hello gitty), GitHub and Collaboration
+
+###Front-End Basics
+
+- [x] Intro to HTML & CSS
+- [x] Responsive Web Design
+- [ ] JavaScript Basics
+- [ ] Document Object Model - practice
+
+###Advanced Topics
+
+- [ ] Building a Tiny JS World (pre-OOP) - practice
+- [ ] Object oriented JS - practice
+- [ ] OOP exercise - practice
+- [ ] Offline Web Applications
+- [ ] Memory pair game — real project!
+- [ ] Website Performance Optimization
+- [ ] Friends App - real project!
+
 ## Git intro
 
-<img src="./0_git_intro/udacity_git_intro.png" alt="Screenshot#1">
+[How to use Git and GitHub](src="./0_git_intro/udacity_git_intro.png" "How to use Git and GitHub")
 
 Git and GitHub are perfect features, I'll use it.
 
