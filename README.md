@@ -62,3 +62,7 @@ Very good free materials and lubs.
 
 I met a large number of sites on the network without any optimization for mobile devices, which makes it impossible to use them.
 I hope the acquired knowledge will help to make the interface convenient for people.
+
+[flexboxfroggy.com - CSS Game](./4_task_responsive_web_design/flexbox_froggy.png)
+
+Funny game! :frog:
