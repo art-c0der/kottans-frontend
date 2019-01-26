@@ -27,20 +27,38 @@ It is really useful material about git and GitHub.
 
 ## Git intro
 
-[How to use Git and GitHub](./0_git_intro/udacity_git_intro.png "How to use Git and GitHub")
+[udacity.com - How to use Git and GitHub](./0_git_intro/udacity_git_intro.png)
 
 Git and GitHub are perfect features, I'll use it.
 
 ## Linux CLI, and HTTP
 
-<img src="./1_task_linux_cli/Completed.png" alt="Screenshot#1">
+[codecademy.com: Learn the Commant Line](./1_task_linux_cli/Completed.png)
 
 Very interesting course about Bash Commandline,
 but too heavy informations about HTTP Protocols.
 
 ## Git Collaboration
 
-<img src="./2_git_collaboration/what_is_version_control.png" alt="Screenshot#1">
-<img src="./2_git_collaboration/github_collaboration.png" alt="Screenshot#1">
+[udacity.com - Version Control with Git](./2_git_collaboration/what_is_version_control.png)
+
+[udacity.com - GitHub and Collaboration](./2_git_collaboration/github_collaboration.png)
 
 Mostly repiting of the Git intro at stage 0 with couple remarks.
+
+## Intro to HTML and CSS
+
+[udacity.com - Intro to HTML and CSS](./3_task_html_css_intro/html_css_intro.png)
+
+Some basic info.
+
+[htmlacademy.ru - HTML and CSS basics](./3_task_html_css_intro/htmlacademy.ru.png)
+
+Very good free materials and lubs.
+
+## Responsive Web Design
+
+[udacity.com - Responsive Web Design Fundamentals](./4_task_responsive_web_design/responsive_web_design_fundamentals.png)
+
+I met a large number of sites on the network without any optimization for mobile devices, which makes it impossible to use them.
+I hope the acquired knowledge will help to make the interface convenient for people.
