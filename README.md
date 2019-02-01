@@ -12,7 +12,6 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
-
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
 
