@@ -12,6 +12,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
+
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
 
@@ -60,9 +61,13 @@ Very good free materials and lubs.
 
 [udacity.com - Responsive Web Design Fundamentals](./4_task_responsive_web_design/responsive_web_design_fundamentals.png)
 
-I met a large number of sites on the network without any optimization for mobile devices, which makes it impossible to use them.
+I've met a large number of sites on the network without any optimization for mobile devices, which makes it impossible to use them.
 I hope the acquired knowledge will help to make the interface convenient for people.
 
 [flexboxfroggy.com - CSS Game](./4_task_responsive_web_design/flexbox_froggy.png)
 
 Funny game! :frog:
+
+## JS Basics
+
+[udacity.com - Intro to JavaScript](./5_task_js_basics/intro_to_javascript.png)
