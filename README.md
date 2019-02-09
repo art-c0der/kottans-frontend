@@ -12,6 +12,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 - [x] Intro to HTML & CSS
 - [x] Responsive Web Design
+- [x] HTLM & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
 
@@ -67,6 +68,27 @@ I hope the acquired knowledge will help to make the interface convenient for peo
 
 Funny game! :frog:
 
+## HTLM & CSS Practice (Google popup menu)
+
+[My project](./5_html_css_practice/README.md)
+
 ## JS Basics
 
-[udacity.com - Intro to JavaScript](./5_task_js_basics/intro_to_javascript.png)
+[udacity.com - Intro to JavaScript](./6_task_js_basics/intro_to_javascript.png)
+
+[learn.freecodecamp.org - Basic JavaScript](./6_task_js_basics/freecodecamp_basic_js.png)
+
+So many useful things about arrays and objects.
+
+[learn.freecodecamp.org - ES6](./6_task_js_basics/freecodecamp_es6.png)
+
+Array's functions, spread array method, class.
+
+[learn.freecodecamp.org - Basic Data Structure](./6_task_js_basics/freecodecamp_basic_data_srtuctures.png)
+
+Topics about how to handle with objects ans arrays.
+
+[learn.freecodecamp.org - Basic Algorithm Scripting](./6_task_js_basics/freecodecamp_basic_algorithm_scriting.png)
+
+Tasks how to use your knowledge.
+The execution of these tasks took me quite a long time, but it was worth it. Now I approach the solution of problems more pragmatically. Also I saved a lot of gists for my use.
