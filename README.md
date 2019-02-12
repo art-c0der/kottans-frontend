@@ -93,6 +93,10 @@ Topics about how to handle with objects ans arrays.
 Tasks how to use your knowledge.
 The execution of these tasks took me quite a long time, but it was worth it. Now I approach the solution of problems more pragmatically. Also I saved a lot of gists for my use.
 
-[learn.freecodecamp.org - Functional Programming](./6_task_js_basics/freecodecamp_functional_programming.png]
+[learn.freecodecamp.org - Functional Programming](./6_task_js_basics/freecodecamp_functional_programming.png)
 
 Good introductory material about principles of the functional programming. Also good practical taskts, durring which I worked with arrays methods. Also, I'm really happy that understand array.reduce() method! :notebook:
+
+[learn.freecodecamp.org - Intermediate Algorithm Scripting](./6_task_js_basics/freecodecamp_intermediate_algorithm_scripting.png)
+
+It took a lot of time to manage with String methods. Not all clear with RegExp.
