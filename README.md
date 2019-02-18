@@ -70,7 +70,7 @@ Funny game! :frog:
 
 ## HTLM & CSS Practice (Google popup menu)
 
-[My project](https://github.com/Temu4/Booble-styled-page)
+[My project](https://github.com/Temu4/Booble-popup)
 
 ## JS Basics
 
