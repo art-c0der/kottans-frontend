@@ -4,27 +4,27 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 ### General Basics
 
-- [x] Git Basics
-- [x] Linux CLI and Networking
-- [x] VCS (hello gitty), GitHub and Collaboration
+- [x] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+- [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+- [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 
 ### Front-End Basics
 
-- [x] Intro to HTML & CSS
-- [x] Responsive Web Design
-- [x] HTLM & CSS Practice
-- [x] JavaScript Basics
-- [ ] Document Object Model - practice
+- [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
+- [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
+- [x] [HTLM & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
+- [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
+- [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
 
 ### Advanced Topics
 
-- [ ] Building a Tiny JS World (pre-OOP) - practice
-- [ ] Object oriented JS - practice
-- [ ] OOP exercise - practice
-- [ ] Offline Web Applications
-- [ ] Memory pair game — real project!
-- [ ] Website Performance Optimization
-- [ ] Friends App - real project!
+- [ ] [Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
+- [ ] [Object oriented JS - practice](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
+- [ ] [OOP exercise - practice](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+- [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
+- [ ] [Memory pair game — real project!](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
+- [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
+- [ ] [Friends App - real project!](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md)
 
 ## Git intro
 
