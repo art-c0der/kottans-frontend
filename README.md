@@ -14,7 +14,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 - [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
 - [x] [HTLM & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 - [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
-- [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
+- [x] [Document Object Model - practice](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md)
 
 ### Advanced Topics
 
@@ -110,3 +110,6 @@ Learned so many tools to work with document. And understand what is javascript e
 [learn.freecodecamp.org - Intermediate Algorithm Scripting](./7_task_js_dom/freecodecamp_intermediate_algorithm_scripting.png)
 
 Perform my skills with arrays and strings.
+
+###Practical task
+[My project](https://temu4.github.io/weapons-explorer/)
