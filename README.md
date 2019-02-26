@@ -111,5 +111,5 @@ Learned so many tools to work with document. And understand what is javascript e
 
 Perform my skills with arrays and strings.
 
-###Practical task
+### Practical task
 [My project](https://temu4.github.io/weapons-explorer/)
