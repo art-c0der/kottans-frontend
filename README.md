@@ -100,3 +100,13 @@ Good introductory material about principles of the functional programming. Also 
 [learn.freecodecamp.org - Intermediate Algorithm Scripting](./6_task_js_basics/freecodecamp_intermediate_algorithm_scripting.png)
 
 It took a lot of time to manage with String methods. Not all clear with RegExp.
+
+## DOM
+
+[udacity.com - JavaScript and DOM](./7_task_js_dom/udacity-js-dom.png)
+
+Learned so many tools to work with document. And understand what is javascript execution process of functions (Call Stack, Event Loop , Tasks)
+
+[learn.freecodecamp.org - Intermediate Algorithm Scripting](./7_task_js_dom/freecodecamp_intermediate_algorithm_scripting.png)
+
+Perform my skills with arrays and strings.
