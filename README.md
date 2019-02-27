@@ -1,5 +1,12 @@
 According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob/master/contents.md)
 
+
+
+<pre>  ᴧ_ᴧ
+=(ᴧ.ᴧ)=
+(")_(")</pre>
+
+
 ## My progress:
 
 ### General Basics
