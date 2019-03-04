@@ -1,11 +1,8 @@
 According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob/master/contents.md)
 
-
-
 <pre>  ᴧ_ᴧ
 =(ᴧ.ᴧ)=
 (")_(")</pre>
-
 
 ## My progress:
 
@@ -119,4 +116,15 @@ Learned so many tools to work with document. And understand what is javascript e
 Perform my skills with arrays and strings.
 
 ### Practical task
-[My project](https://temu4.github.io/weapons-explorer/)
+
+[DOM - #Demo](https://temu4.github.io/weapons-explorer/)
+
+## A Tiny JS World
+
+[A Tiny JS World - #Demo](https://temu4.github.io/a-tiny-JS-world/)
+
+## Object-Oriented JavaScript
+
+[udacity-object-oriented-javascript.png](udacity-Object-Oriented-JavaScript.png)
+
+[Codewars](https://www.codewars.com/users/Temu4/badges/large)
