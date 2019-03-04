@@ -74,7 +74,7 @@ Funny game! :frog:
 
 ## HTLM & CSS Practice (Google popup menu)
 
-[My project](https://github.com/Temu4/Booble-popup)
+[My project - #Demo](https://github.com/Temu4/Booble-popup)
 
 ## JS Basics
 
@@ -125,6 +125,6 @@ Perform my skills with arrays and strings.
 
 ## Object-Oriented JavaScript
 
-[udacity-object-oriented-javascript.png](udacity-Object-Oriented-JavaScript.png)
+[udacity_object_oriented_javascript](udacity-Object-Oriented-JavaScript.png)
 
-[Codewars](https://www.codewars.com/users/Temu4/badges/large)
+![Codewars](https://www.codewars.com/users/Temu4/badges/large)
