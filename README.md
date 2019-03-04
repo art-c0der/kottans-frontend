@@ -22,7 +22,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 ### Advanced Topics
 
-- [ ] [Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
+- [x] [Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
 - [ ] [Object oriented JS - practice](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
 - [ ] [OOP exercise - practice](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
@@ -125,6 +125,7 @@ Perform my skills with arrays and strings.
 
 ## Object-Oriented JavaScript
 
-[udacity_object_oriented_javascript](udacity-Object-Oriented-JavaScript.png)
+[udacity - Object Oriented JavaScript](udacity-Object-Oriented-JavaScript.png)
+The last task on udacity is beyond me :(
 
 ![Codewars](https://www.codewars.com/users/Temu4/badges/large)
