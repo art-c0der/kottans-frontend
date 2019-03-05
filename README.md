@@ -24,7 +24,7 @@ According to [Kottans Front-End Course](https://github.com/kottans/frontend/blob
 
 - [x] [Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md)
 - [ ] [Object oriented JS - practice](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
-- [ ] [OOP exercise - practice](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
+- [x] [OOP exercise - practice](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md)
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
 - [ ] [Memory pair game — real project!](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md)
 - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
@@ -129,3 +129,7 @@ Perform my skills with arrays and strings.
 The last task on udacity is beyond me :(
 
 ![Codewars](https://www.codewars.com/users/Temu4/badges/large)
+
+## OOP exercise (A Tiny JS World OOP)
+
+[A Tiny JS World OOP - #Demo](https://temu4.github.io/a-tiny-JS-world-oop/)
