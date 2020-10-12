@@ -53,17 +53,17 @@ Mostly repiting of the Git intro at stage 0 with couple remarks.
 
 ## Intro to HTML and CSS
 
-[udacity.com - Intro to HTML and CSS](./3_task_html_css_intro/html_css_intro.png)
+![udacity.com - Intro to HTML and CSS](./3_task_html_css_intro/html_css_intro.png)
 
 Some basic info.
 
-[htmlacademy.ru - HTML and CSS basics](./3_task_html_css_intro/htmlacademy.ru.png)
+![htmlacademy.ru - HTML and CSS basics](./3_task_html_css_intro/htmlacademy.ru.png)
 
 Very good free materials and lubs.
 
 ## Responsive Web Design
 
-[udacity.com - Responsive Web Design Fundamentals](./4_task_responsive_web_design/responsive_web_design_fundamentals.png)
+![udacity.com - Responsive Web Design Fundamentals](./4_task_responsive_web_design/responsive_web_design_fundamentals.png)
 
 I've met a large number of sites on the network without any optimization for mobile devices, which makes it impossible to use them.
 I hope the acquired knowledge will help to make the interface convenient for people.
@@ -78,40 +78,40 @@ Funny game! :frog:
 
 ## JS Basics
 
-[udacity.com - Intro to JavaScript](./6_task_js_basics/intro_to_javascript.png)
+![udacity.com - Intro to JavaScript](./6_task_js_basics/intro_to_javascript.png)
 
-[learn.freecodecamp.org - Basic JavaScript](./6_task_js_basics/freecodecamp_basic_js.png)
+![learn.freecodecamp.org - Basic JavaScript](./6_task_js_basics/freecodecamp_basic_js.png)
 
 So many useful things about arrays and objects.
 
-[learn.freecodecamp.org - ES6](./6_task_js_basics/freecodecamp_es6.png)
+![learn.freecodecamp.org - ES6](./6_task_js_basics/freecodecamp_es6.png)
 
 Array's functions, spread array method, class.
 
-[learn.freecodecamp.org - Basic Data Structure](./6_task_js_basics/freecodecamp_basic_data_srtuctures.png)
+![learn.freecodecamp.org - Basic Data Structure](./6_task_js_basics/freecodecamp_basic_data_srtuctures.png)
 
 Topics about how to handle with objects ans arrays.
 
-[learn.freecodecamp.org - Basic Algorithm Scripting](./6_task_js_basics/freecodecamp_basic_algorithm_scriting.png)
+![learn.freecodecamp.org - Basic Algorithm Scripting](./6_task_js_basics/freecodecamp_basic_algorithm_scriting.png)
 
 Tasks how to use your knowledge.
 The execution of these tasks took me quite a long time, but it was worth it. Now I approach the solution of problems more pragmatically. Also I saved a lot of gists for my use.
 
-[learn.freecodecamp.org - Functional Programming](./6_task_js_basics/freecodecamp_functional_programming.png)
+![learn.freecodecamp.org - Functional Programming](./6_task_js_basics/freecodecamp_functional_programming.png)
 
 Good introductory material about principles of the functional programming. Also good practical taskts, durring which I worked with arrays methods. Also, I'm really happy that understand array.reduce() method! :notebook:
 
-[learn.freecodecamp.org - Intermediate Algorithm Scripting](./6_task_js_basics/freecodecamp_intermediate_algorithm_scripting.png)
+![learn.freecodecamp.org - Intermediate Algorithm Scripting](./6_task_js_basics/freecodecamp_intermediate_algorithm_scripting.png)
 
 It took a lot of time to manage with String methods. Not all clear with RegExp.
 
 ## DOM
 
-[udacity.com - JavaScript and DOM](./7_task_js_dom/udacity-js-dom.png)
+![udacity.com - JavaScript and DOM](./7_task_js_dom/udacity-js-dom.png)
 
 Learned so many tools to work with document. And understand what is javascript execution process of functions (Call Stack, Event Loop , Tasks)
 
-[learn.freecodecamp.org - Intermediate Algorithm Scripting](./7_task_js_dom/freecodecamp_intermediate_algorithm_scripting.png)
+![learn.freecodecamp.org - Intermediate Algorithm Scripting](./7_task_js_dom/freecodecamp_intermediate_algorithm_scripting.png)
 
 Perform my skills with arrays and strings.
 
